@@ -1,69 +1,106 @@
-<h1 align="center">Hi 👋, I'm Yenuli Sooriyaarachchi</h1>
-<h3 align="center">AI & Data Science Undergraduate | Aspiring AI Engineer</h3>
+<div align="center">
+
+# Hi 👋 I'm Yenuli Sooriyaarachchi
+
+### AI & Data Science Undergraduate  
+### Aspiring AI Engineer • NLP Enthusiast • Future AI Researcher
+
+🌱 Building intelligent systems for real-world impact
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yenuli-sooriyaarachchi-5878942a4/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasyenuli@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 BSc (Hons) in AI & Data Science
-- 🤖 Interested in AI, NLP, ML & Data Engineering
-- 📚 Currently learning LangGraph, FastAPI & Multi-Agent AI Systems
-- 🌱 Exploring Research & AI Engineering
-- ⚡ Goal: Become a top AI Engineer
+```yaml
+Name: Yenuli Sooriyaarachchi
+Education: BSc (Hons) in AI & Data Science
+Focus: Artificial Intelligence & Machine Learning
+Currently Learning:
+  - NLP 
+  - FastAPI
+  - Multi-Agent AI Systems
+  - Computer Vision based Research
+Goal:
+  Become a top AI Engineer & Researcher
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" />
+## 👩‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,r" />
 </p>
 
-### AI / ML
-<p>
+## 🤖 AI / Machine Learning
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### Web & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mysql" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+<p align="left">
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🌐 Web & Backend
 
-- 🧠 NLP & AI Research Projects
-- 🤖 HR Multi-Agent System
-- 📊 Customer Churn Prediction
-- 🛒 Book Store Web Application
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mysql,docker,postman" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📌 Featured Projects
+
+### 🤖 HR Multi-Agent System
+AI-powered multi-agent task routing and memory engine using FastAPI & LangGraph.
+
+### 📊 Customer Churn Prediction
+Machine learning model for predicting telecom customer churn.
+
+### 🛒 Book Store Web Application
+Full-stack CRUD e-commerce application for online book purchasing.
+
+### 🧠 NLP & AI Research Projects
+Research-focused AI/NLP systems and experimentation projects.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yenuli0808&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yenuli0808&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yenuli0808&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yenuli0808&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenuli0808&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yenuli-sooriyaarachchi-5878942a4/
+- 💼 LinkedIn: YOUR_LINKEDIN_LINK
 - 📧 Email: yasyenuli@gmail.com
 
 ---
 
-✨ “Building intelligent systems for real-world impact.”
+<div align="center">
+
+✨ *"Turning ideas into intelligent systems."*
+
+</div>
