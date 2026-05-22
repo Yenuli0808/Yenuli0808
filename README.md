@@ -92,10 +92,6 @@ Research-focused AI/NLP systems and experimentation projects.
 
 ---
 
-# 🌍 Connect With Me
-
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 📧 Email: yasyenuli@gmail.com
 
 ---
 
