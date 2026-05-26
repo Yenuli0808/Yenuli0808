@@ -3,7 +3,7 @@
 # Hi 👋 I'm Yenuli Sooriyaarachchi
 
 ### AI & Data Science Undergraduate  
-### Aspiring AI Engineer • NLP Enthusiast • Future AI Researcher
+### Aspiring AI Engineer  •  AI Researcher
 
 🌱 Building intelligent systems for real-world impact
 
