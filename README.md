@@ -48,9 +48,10 @@ Goal:
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge" />
 </p>
 
 ---
